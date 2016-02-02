@@ -11,3 +11,4 @@
  - mael-lagalere
  - aDEVE
  - Ricarman
+ - adrienLecoq
