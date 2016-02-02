@@ -12,3 +12,4 @@
  - aDEVE
  - Ricarman
  - adrienLecoq
+ - KaputChyno
